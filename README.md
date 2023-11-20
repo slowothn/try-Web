@@ -8,18 +8,18 @@
     <title>Health Record</title>
     <style>
         h1{
-    text-align: center;
-    font-size: 45px;
-    border-bottom: 1px solid red;
-}
-nav{
-    border-right: 1px solid gray;
-    width: 150px;
-}
-body{
-    margin: 0;
-}
-nav>b{text-decoration: underline;}
+        text-align: center;
+        font-size: 45px;
+        border-bottom: 1px solid red;
+        }
+        nav{
+        border-right: 1px solid gray;
+        width: 150px;
+        }
+        body{
+        margin: 0;
+        }
+        nav>b{text-decoration: underline;}
     </style>
 </head>
 <body>
